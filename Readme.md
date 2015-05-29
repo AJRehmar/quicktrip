@@ -3,7 +3,7 @@
 
 ###Instructions For Development
 * git clone into htdocs (cd into htdocs and run git clone and this repo url)
-* update git remote to your new repo by running git remote and the new repo url you made
+* update git remote (git remote set-url origin + repo url) to your new repo by running git remote and the new repo url you made
 * run bower install to download the packages
 * make your changes to photos, fonts, text etc..
 * git push your changes to your new repo (make sure remote is set to the new repo, not this one)
